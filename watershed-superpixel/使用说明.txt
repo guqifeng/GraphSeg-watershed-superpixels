@@ -1,0 +1,3 @@
+1. 将要处理图片放入images文件夹
+2. 运行demo.m，可修改参数[Label,image,RegionNum]=SCoWOverSegmentaion(image,50);将50修改，数值越小，分割区域数越多
+3. 查看results文件夹中的结果

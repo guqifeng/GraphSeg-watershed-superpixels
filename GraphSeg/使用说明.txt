@@ -1,0 +1,4 @@
+1. 将图片放入images文件夹
+2. 运行test_GraphSeg.m
+3. 在knearresults文件夹中查看knearest方法的效果（具体参看论文）
+4. 在adresults当中查看adjecent方法的效果
